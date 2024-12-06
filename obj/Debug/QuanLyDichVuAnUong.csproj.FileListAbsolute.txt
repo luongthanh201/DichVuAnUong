@@ -1,0 +1,10 @@
+E:\CongCuDungCu\QuanLyDichVuAnUong\QuanLyDichVuAnUong\bin\Debug\QuanLyDichVuAnUong.exe.config
+E:\CongCuDungCu\QuanLyDichVuAnUong\QuanLyDichVuAnUong\bin\Debug\QuanLyDichVuAnUong.exe
+E:\CongCuDungCu\QuanLyDichVuAnUong\QuanLyDichVuAnUong\bin\Debug\QuanLyDichVuAnUong.pdb
+E:\CongCuDungCu\QuanLyDichVuAnUong\QuanLyDichVuAnUong\obj\Debug\QuanLyDichVuAnUong.csproj.AssemblyReference.cache
+E:\CongCuDungCu\QuanLyDichVuAnUong\QuanLyDichVuAnUong\obj\Debug\QuanLyDichVuAnUong.frm_DangNhap.resources
+E:\CongCuDungCu\QuanLyDichVuAnUong\QuanLyDichVuAnUong\obj\Debug\QuanLyDichVuAnUong.Properties.Resources.resources
+E:\CongCuDungCu\QuanLyDichVuAnUong\QuanLyDichVuAnUong\obj\Debug\QuanLyDichVuAnUong.csproj.GenerateResource.cache
+E:\CongCuDungCu\QuanLyDichVuAnUong\QuanLyDichVuAnUong\obj\Debug\QuanLyDichVuAnUong.csproj.CoreCompileInputs.cache
+E:\CongCuDungCu\QuanLyDichVuAnUong\QuanLyDichVuAnUong\obj\Debug\QuanLyDichVuAnUong.exe
+E:\CongCuDungCu\QuanLyDichVuAnUong\QuanLyDichVuAnUong\obj\Debug\QuanLyDichVuAnUong.pdb
