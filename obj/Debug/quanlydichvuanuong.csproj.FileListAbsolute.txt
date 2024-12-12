@@ -1,0 +1,14 @@
+D:\quanlydichvuanuong\quanlydichvuanuong\bin\Debug\DichVuAnUong.mdf
+D:\quanlydichvuanuong\quanlydichvuanuong\bin\Debug\DichVuAnUong_log.ldf
+D:\quanlydichvuanuong\quanlydichvuanuong\bin\Debug\quanlydichvuanuong.exe.config
+D:\quanlydichvuanuong\quanlydichvuanuong\bin\Debug\quanlydichvuanuong.exe
+D:\quanlydichvuanuong\quanlydichvuanuong\bin\Debug\quanlydichvuanuong.pdb
+D:\quanlydichvuanuong\quanlydichvuanuong\obj\Debug\quanlydichvuanuong.csproj.AssemblyReference.cache
+D:\quanlydichvuanuong\quanlydichvuanuong\obj\Debug\quanlydichvuanuong.frm_KhuVuc.resources
+D:\quanlydichvuanuong\quanlydichvuanuong\obj\Debug\quanlydichvuanuong.frm_Main.resources
+D:\quanlydichvuanuong\quanlydichvuanuong\obj\Debug\quanlydichvuanuong.frm_NhaCungCap.resources
+D:\quanlydichvuanuong\quanlydichvuanuong\obj\Debug\quanlydichvuanuong.Properties.Resources.resources
+D:\quanlydichvuanuong\quanlydichvuanuong\obj\Debug\quanlydichvuanuong.csproj.GenerateResource.cache
+D:\quanlydichvuanuong\quanlydichvuanuong\obj\Debug\quanlydichvuanuong.csproj.CoreCompileInputs.cache
+D:\quanlydichvuanuong\quanlydichvuanuong\obj\Debug\quanlydichvuanuong.exe
+D:\quanlydichvuanuong\quanlydichvuanuong\obj\Debug\quanlydichvuanuong.pdb
