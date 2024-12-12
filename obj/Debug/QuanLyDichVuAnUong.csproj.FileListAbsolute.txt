@@ -1,0 +1,17 @@
+D:\CS464K_Laptrinh.net\QuanLyDichVuAnUong\QuanLyDichVuAnUong\bin\Debug\DichVuAnUong.mdf
+D:\CS464K_Laptrinh.net\QuanLyDichVuAnUong\QuanLyDichVuAnUong\bin\Debug\DichVuAnUong_log.ldf
+D:\CS464K_Laptrinh.net\QuanLyDichVuAnUong\QuanLyDichVuAnUong\bin\Debug\QuanLyDichVuAnUong.exe.config
+D:\CS464K_Laptrinh.net\QuanLyDichVuAnUong\QuanLyDichVuAnUong\bin\Debug\QuanLyDichVuAnUong.exe
+D:\CS464K_Laptrinh.net\QuanLyDichVuAnUong\QuanLyDichVuAnUong\bin\Debug\QuanLyDichVuAnUong.pdb
+D:\CS464K_Laptrinh.net\QuanLyDichVuAnUong\QuanLyDichVuAnUong\obj\Debug\QuanLyDichVuAnUong.csproj.AssemblyReference.cache
+D:\CS464K_Laptrinh.net\QuanLyDichVuAnUong\QuanLyDichVuAnUong\obj\Debug\QuanLyDichVuAnUong.frm_QLNguyenLieu.resources
+D:\CS464K_Laptrinh.net\QuanLyDichVuAnUong\QuanLyDichVuAnUong\obj\Debug\QuanLyDichVuAnUong.frm_TrangChu.resources
+D:\CS464K_Laptrinh.net\QuanLyDichVuAnUong\QuanLyDichVuAnUong\obj\Debug\QuanLyDichVuAnUong.Properties.Resources.resources
+D:\CS464K_Laptrinh.net\QuanLyDichVuAnUong\QuanLyDichVuAnUong\obj\Debug\QuanLyDichVuAnUong.csproj.GenerateResource.cache
+D:\CS464K_Laptrinh.net\QuanLyDichVuAnUong\QuanLyDichVuAnUong\obj\Debug\QuanLyDichVuAnUong.csproj.CoreCompileInputs.cache
+D:\CS464K_Laptrinh.net\QuanLyDichVuAnUong\QuanLyDichVuAnUong\obj\Debug\QuanLyDichVuAnUong.exe
+D:\CS464K_Laptrinh.net\QuanLyDichVuAnUong\QuanLyDichVuAnUong\obj\Debug\QuanLyDichVuAnUong.pdb
+D:\CS464K_Laptrinh.net\QuanLyDichVuAnUong\QuanLyDichVuAnUong\obj\Debug\QuanLyDichVuAnUong.frm_ThemNLieu.resources
+D:\CS464K_Laptrinh.net\QuanLyDichVuAnUong\QuanLyDichVuAnUong\obj\Debug\QuanLyDichVuAnUong.frm_QLChucVu.resources
+D:\CS464K_Laptrinh.net\QuanLyDichVuAnUong\QuanLyDichVuAnUong\obj\Debug\QuanLyDichVuAnUong.frm_NhanVien.resources
+D:\CS464K_Laptrinh.net\QuanLyDichVuAnUong\QuanLyDichVuAnUong\obj\Debug\QuanLyDichVuAnUong.frm_NhapKho.resources
